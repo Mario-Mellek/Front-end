@@ -1,3 +1,3 @@
 # Front-end
-HTML $ CSS assignment.
+HTML & CSS assignment.
 https://mario-mellek.github.io/Front-end/
